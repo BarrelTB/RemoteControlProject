@@ -57,6 +57,7 @@ public class RemoteControlApp {
 		System.out.println("TURNING OFF...");
 
 	}
+
 	public static void wrongButton() {
 		System.out.println("COMMAND NOT RECOGNIZED");
 	}
